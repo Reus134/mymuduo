@@ -1,0 +1,1 @@
+自动编译文件是autobiuld.sh
